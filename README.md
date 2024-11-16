@@ -1,6 +1,6 @@
 #### Hi there, I’m Bdhf-Hdhfj👋
-- 👀 I’m interested in PC
-- 🌱 I’m currently learning ICT
+- 👀 I’m interested in PC.
+- 🌱 I’m currently learning ICT.
 
 #### My Stats 📈
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bdhf-Hdhfj&show_icons=true&theme=tokyonight)
